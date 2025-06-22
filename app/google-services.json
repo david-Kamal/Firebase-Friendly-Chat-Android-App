@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "480978025767",
+    "firebase_url": "https://friendy-app-8ebd7.firebaseio.com",
+    "project_id": "friendy-app-8ebd7",
+    "storage_bucket": "friendy-app-8ebd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480978025767:android:992c8baf647ba266",
+        "android_client_info": {
+          "package_name": "com.david.calvados.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480978025767-gtof47o6u4kbcdjnl7hkue2gqcsb6chd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.calvados.friendlychat",
+            "certificate_hash": "96c5dcc84ec07d7dea68cbdc6c9c2ac6f4dc7431"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMk1322frIP48CbSHA1bSPex7nWbxwung"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480978025767-3ia56trp5d5mjal6n70m9km9q2mi961v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
